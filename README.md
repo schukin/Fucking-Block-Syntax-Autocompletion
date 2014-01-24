@@ -1,10 +1,28 @@
 Xcode Snippets for Fucking Block Syntax
 =======================================
 
-Xcode autocompletion for [fucking block syntax](http://www.fuckingblocksyntax.com).
+Xcode autocompletion for [Fucking Block Syntax](http://www.fuckingblocksyntax.com).
+
+Hopefully this will relieve you of [cheat sheets](http://twobitlabs.com/2012/12/objective-c-ios-blocks-cheat-sheet/).
 
 ## Installation
 
 	git clone https://github.com/schukin/Awesome-Xcode-Snippets.git
 	cd Awesome-Xcode-Snippets
 	rake
+
+## Usage
+
+Just start typing `fuckingBlock` and Xcode will do the rest (and do its best job at taking scope into account).
+
+### Fucking Block Typedef
+
+![Fucking block typedef](http://i.imgur.com/octBGuC.gif)
+
+### Fucking Block Property
+
+![Fucking block property](http://i.imgur.com/HyutIyO.gif)
+
+### Fucking Block as method argument
+
+![Fucking block as method argument](http://i.imgur.com/dPj1Vtn.gif)
