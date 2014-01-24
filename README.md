@@ -1,7 +1,7 @@
-Xcode Snippets for Fucking Block Syntax
-=======================================
+Fucking Block Syntax Autocompletion
+===================================
 
-Xcode autocompletion for [Fucking Block Syntax](http://www.fuckingblocksyntax.com).
+Xcode snippets for [Fucking Block Syntax](http://www.fuckingblocksyntax.com).
 
 Hopefully this will relieve you of [cheat sheets](http://twobitlabs.com/2012/12/objective-c-ios-blocks-cheat-sheet/).
 
