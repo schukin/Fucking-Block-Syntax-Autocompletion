@@ -7,8 +7,8 @@ Hopefully this will relieve you of [cheat sheets](http://twobitlabs.com/2012/12/
 
 ## Installation
 
-	git clone https://github.com/schukin/Awesome-Xcode-Snippets.git
-	cd Awesome-Xcode-Snippets
+	git clone https://github.com/schukin/Fucking-Block-Syntax-Autocompletion.git
+	cd Fucking-Block-Syntax-Autocompletion
 	rake
 
 ## Usage
